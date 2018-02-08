@@ -1,0 +1,43 @@
+{
+    "news": [{
+            "author": "Devesh Nain",
+            "title": "Ferrari back in the fight",
+            "description": "Ferrari's year-on-year progress was as unexpected as it was welcome; previous pre-season deception caused hesitation, but it out-raced and out-gunned Mercedes in Australia, underlying its credentials. Ferrari's SF70-H proved to be a more consistent package early on as Mercedes grappled with  its W08, and was especially rapid on high - downforce venues without long straights.Silverstone form– in which Mercedes ' pace pushed it into a tyre-breaking scenario – cast a foreboding tone, and after the summer break the narrative shifted. Reliability issues proved crucial across Malaysia and Japan, but strong pace – peaking with Brazil win – demonstrated that, for once, Ferrari kept pace in the development battle.",
+            "url": "In progress",
+            "urlToImage": "ferrariback.jpg",
+            "publishedAt": "2017-12-21T18:48:11Z"
+        },
+        {
+            "author": "JAMES BENSON",
+            "title": "F1 news: Ferrari chief Sergio Marchionne offers honest verdict on Kimi Raikkonen ",
+            "description": "Raikkonen linked up with the Italian constructors again three years ago following stints in the World Rally Championship,NASCAR and Lotus F1 team.And this year he ended the season fourth in the drivers’ standings having secured seven podium finishes in 20 races.Raikkonen is yet to win a grand prix since he returned to F1 though and secured just one pole in qualifying in 2017. ",
+            "url ": "In progress ",
+            "urlToImage": "f1news.jpg ",
+            "publishedAt": "2017-12-21T14:40:11Z "
+        },
+        {
+            "author": "Ravi Dubey",
+            "title": "FERRARI BLASTS F1 EXECUTIVE ROSS BRAWN: HE'S 'LIKE MOSES READING THE TEN COMMANDMENTS'",
+            "description": "At Ferrari's Christmas lunch, the Ferrari president said he had threatened to pull the Italian marque out of F1 because Brawn is looking at ways that are against the DNA of the sport.He is now quoted as saying by Speed Week as saying, I have a good relationship with (Liberty Media's) Chase Carey. We saw each other 10 days ago, and we had a very open dialogue. What I do not care for is when Ross Brawn comes along and announces that grid girls have to go. And how the engines and chassis should be.",
+            "url": "In progress",
+            "urlToImage": "FERRARIBLASTS.jpg",
+            "publishedAt": "2017-12-20T22:38:11Z"
+        },
+        {
+            "author": "Alanis King",
+            "title": "Ferrari's Now Threatening To Quit F1 And Start A Rival Racing Series",
+            "description": "Ferrari wants everyone to know that it is really, really serious about its threat to quit Formula One. Ferrari doesn’t like what F1’s new owners are doing, and now the company’s temper tantrum is getting so big that it tossed up the idea of creating its own rival racing series.Ferrari’s recent round of quit threats started about two months ago amidst F1’s owners making a lot of changes, including potentially big changes to the series’ regulations. F1’s next rules overhaul will come in 2021, and its owners said at the end of October that they wanted it to include louder and cheaper engines",
+            "url": "In progress",
+            "urlToImage": "FERRARIthreat.jpg",
+            "publishedAt": "2017-12-20T18:04:11Z"
+        },
+        {
+            "author": "Ansh Sanyal",
+            "title": "2017 F1 driver of the year",
+            "description": "After an abysmal 2016 campaign, Ferrari were making heads turn as early as the pre-season Barcelona testing. As they kept pace and sometimes even outpaced the dominant Mercedes hybrid power unit, Ferrari fans were already excited to see a cross-team battle for the championship. All eyes were also immediately on the Italian team’s premier driver, Sebastian Vettel.Right from the start of the season Ferrari and Vettel came out all guns blazing. The German consistently showed signs of a dominating form reminiscent of the days when he reigned supreme with Red Bull Racing whilst winning multiple world championships. However, more than that, Vettel seemed like he was a better driver in terms of skill, race management, and overtaking aggression",
+            "url": "In Progress",
+            "urlToImage": "fdriver.jpg",
+            "publishedAt": "2017-12-20T14:22:11Z"
+        }
+    ]
+}
